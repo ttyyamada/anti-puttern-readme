@@ -1,0 +1,2 @@
+# anti-puttern-readme
+ReadMeのアンチパターンです
