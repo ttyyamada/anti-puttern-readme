@@ -5,12 +5,15 @@
 
 ## インストール方法
 1.Unity公式ページからダウンロードをクリックします
+
 <img width="1023" alt="スクリーンショット 2022-10-18 20 54 12" src="https://user-images.githubusercontent.com/17377478/196422484-dbe093fe-8503-45df-8c17-fe40645db829.png">
 
 2.自分の環境に合わせてDLするのを選びます 
+
 <img width="571" alt="スクリーンショット 2022-10-18 20 55 38" src="https://user-images.githubusercontent.com/17377478/196422755-167870b4-b0f8-4cfd-b747-7d15bcc163ee.png">
 
 3.最新版をInstallします。次の画面で必要なやつを選択してインストールます
+
 <img width="874" alt="スクリーンショット 2022-10-18 20 56 42" src="https://user-images.githubusercontent.com/17377478/196422968-a1d0503c-af25-410a-b443-a1553bb8f064.png">
 
 4.このプロジェクトをCloseして開きます
